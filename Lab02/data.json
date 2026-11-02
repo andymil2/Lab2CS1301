@@ -1,0 +1,156 @@
+{
+    "chart_title": "NBA Team Wins/Losses",
+    "data_points": [
+        {
+            "label": "Atlanta Hawks",
+            "value": 46,
+            "losses": 36
+        },
+        {
+            "label": "Boston Celtics",
+            "value": 56,
+            "losses": 26
+        },
+        {
+            "label": "Brooklyn Nets",
+            "value": 20,
+            "losses": 62
+        },
+        {
+            "label": "Charlotte Hornets",
+            "value": 44,
+            "losses": 38
+        },
+        {
+            "label": "Chicago Bulls",
+            "value": 31,
+            "losses": 51
+        },
+        {
+            "label": "Cleveland Cavaliers",
+            "value": 52,
+            "losses": 30
+        },
+        {
+            "label": "Dallas Mavericks",
+            "value": 26,
+            "losses": 56
+        },
+        {
+            "label": "Denver Nuggets",
+            "value": 54,
+            "losses": 28
+        },
+        {
+            "label": "Detroit Pistons",
+            "value": 60,
+            "losses": 22
+        },
+        {
+            "label": "Golden State Warriors",
+            "value": 37,
+            "losses": 45
+        },
+        {
+            "label": "Houston Rockets",
+            "value": 52,
+            "losses": 30
+        },
+        {
+            "label": "Indiana Pacers",
+            "value": 19,
+            "losses": 63
+        },
+        {
+            "label": "Los Angeles Clippers",
+            "value": 42,
+            "losses": 40
+        },
+        {
+            "label": "Los Angeles Lakers",
+            "value": 53,
+            "losses": 29
+        },
+        {
+            "label": "Memphis Grizzlies",
+            "value": 25,
+            "losses": 57
+        },
+        {
+            "label": "Miami Heat",
+            "value": 43,
+            "losses": 39
+        },
+        {
+            "label": "Milwaukee Bucks",
+            "value": 32,
+            "losses": 50
+        },
+        {
+            "label": "Minnesota Timberwolves",
+            "value": 49,
+            "losses": 33
+        },
+        {
+            "label": "New Orleans Pelicans",
+            "value": 26,
+            "losses": 56
+        },
+        {
+            "label": "New York Knicks",
+            "value": 53,
+            "losses": 29
+        },
+        {
+            "label": "Oklahoma City Thunder",
+            "value": 64,
+            "losses": 18
+        },
+        {
+            "label": "Orlando Magic",
+            "value": 45,
+            "losses": 37
+        },
+        {
+            "label": "Philadelphia 76ers",
+            "value": 45,
+            "losses": 37
+        },
+        {
+            "label": "Phoenix Suns",
+            "value": 45,
+            "losses": 37
+        },
+        {
+            "label": "Portland Trail Blazers",
+            "value": 42,
+            "losses": 40
+        },
+        {
+            "label": "Sacramento Kings",
+            "value": 22,
+            "losses": 60
+        },
+        {
+            "label": "San Antonio Spurs",
+            "value": 62,
+            "losses": 20
+        },
+        {
+            "label": "Toronto Raptors",
+            "value": 46,
+            "losses": 36
+        },
+        {
+            "label": "Utah Jazz",
+            "value": 22,
+            "losses": 60
+        },
+        {
+            "label": "Washington Wizards",
+            "value": 17,
+            "losses": 65
+        }
+    ]
+
+}
